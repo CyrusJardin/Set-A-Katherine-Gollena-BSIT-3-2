@@ -1,2 +1,3 @@
-# IT-ELEC-Note-App
-# Ej-cien Balagoza BSIT 3-2
+# IT ELEC 3 -Web Systems and Technologies
+# Midterm Examination (Lab Set A)
+# Katherine M. Gollena BSIT 3-2
